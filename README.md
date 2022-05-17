@@ -24,4 +24,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O objetivo era praticar como funciona um aplicativo CRUD. Ao mesmo tempo,  
-construir um aplicativo básico de mídia social e com isso fortaceler as bases de entendimento sobre como os Princípios CRUD funcionam em JavaScript.
+construir um aplicativo básico de mídia social e com isso fortalecer as bases de entendimento sobre como os Princípios CRUD funcionam em JavaScript.
