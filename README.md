@@ -11,7 +11,7 @@ Baseado no exposto pela freecodeCamp, <a href="https://www.freecodecamp.org/news
 </p>
 
 
-<h4 align="center"> Para testar o modelo <a href="https://crud-social-media.vercel.app/">clique neste link aqui </a>provido pela Vercel Company.</h4>
+<h4 align="center"> Para testar o modelo, <a href="https://crud-social-media.vercel.app/">clique neste link aqui </a>provido pela Vercel Company.</h4>
 
 ## 🚀 Tecnologias
 
