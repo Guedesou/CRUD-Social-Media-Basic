@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GUEDES SOCIAL MEDIA</title>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+</head>
+<body>
+    <h1>Rede Social do Guedes</h1>
+<div class="container">
+    <div class="left">
+        <form id="form">   
+            <label for="">Escreva seu post aqui:</label>
+            <br><br>
+            <textarea name="" id="input" cols="30" rows="10" ></textarea>
+            <br><br>
+            <div id="msg"></div>
+            <button type="submit">Publique aqui:)</button>
+        </form>
+    </div> 
+    <div class="right">
+        <h3>Suas Publicações Recentes *-*</h3>
+        <div id="posts">
+            <div>
+             <p>Publicação 1</p>
+             <span class="options">
+                <i onClick="editPost(this)" class="fas fa-edit"></i>
+                <i onClick="deletePost(this)" class="fas fa-trash-alt"></i>
+              </span>
+            </div>
+            <div>
+            <p>Publicação 2</p>
+            <span class="options">
+                <i onClick="editPost(this)" class="fas fa-edit"></i>
+            <i onClick="deletePost(this)" class="fas fa-trash-alt"></i>
+          </span>
+            </div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+</div>
+</body>
+<script src="main.js"></script>
+</html>
